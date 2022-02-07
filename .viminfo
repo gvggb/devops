@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq
-|2,0,1644077412,,"wq"
+|2,0,1644077675,,"wq"
 
 # Search String History (newest to oldest):
 
@@ -23,16 +23,35 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""0	LINE	0
+	# Please enter the commit message for your changes. Lines starting
+	# with '#' will be ignored, and an empty message aborts the commit.
+|3,1,0,1,2,0,1644077666,"# Please enter the commit message for your changes. Lines starting","# with '#' will be ignored, and an empty message aborts the commit."
 
 # File marks:
-'0  1  16  ~/file3
-|4,48,1,16,1644077412,"~/file3"
+'0  2  9  ~/.git/COMMIT_EDITMSG
+|4,48,2,9,1644077675,"~/.git/COMMIT_EDITMSG"
+'1  1  16  ~/file3
+|4,49,1,16,1644077412,"~/file3"
 
 # Jumplist (newest first):
+-'  2  9  ~/.git/COMMIT_EDITMSG
+|4,39,2,9,1644077675,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1644077646,"~/.git/COMMIT_EDITMSG"
+-'  1  16  ~/file3
+|4,39,1,16,1644077412,"~/file3"
 -'  1  16  ~/file3
 |4,39,1,16,1644077412,"~/file3"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1644077672	0
+	"	2	9
+	^	2	10
+	.	2	9
+	+	2	9
 
 > ~/file3
 	*	1644077408	0
